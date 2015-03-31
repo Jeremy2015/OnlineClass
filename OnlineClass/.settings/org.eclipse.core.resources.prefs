@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/main/java/onlineClass/controller/LoginLogoutController.java=UTF-8
+encoding//src/main/java/onlineClass/controller/VideoController.java=UTF-8
+encoding//src/main/java/onlineClass/dao/UserDaoImpl.java=UTF-8
+encoding//src/main/java/onlineClass/encryption/MD5.java=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/courseintroduce.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/login.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/myonlinecourse.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/successpage.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/videopage.jsp=UTF-8
+encoding//src/main/webapp/index.jsp=UTF-8
+encoding/<project>=UTF-8

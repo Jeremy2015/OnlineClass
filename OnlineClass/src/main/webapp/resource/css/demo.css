@@ -1,0 +1,19 @@
+.banner { position: relative; overflow: auto; }
+.banner li { list-style: none; }
+.banner ul li { float: left; }
+.inner .banner {
+	padding: 160px 0 110px;
+}
+
+.banner {
+position: relative;
+width: 100%;
+overflow: auto;
+font-size: 18px;
+line-height: 24px;
+text-align: center;
+color: rgba(255,255,255,.6);
+text-shadow: 0 0 1px rgba(0,0,0,.05), 0 1px 2px rgba(0,0,0,.3);
+background: #5b4d3d;
+box-shadow: 0 1px 2px rgba(0,0,0,.25);
+}

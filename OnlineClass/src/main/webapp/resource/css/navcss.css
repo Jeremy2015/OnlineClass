@@ -1,0 +1,31 @@
+ul
+{
+list-style-type:none;
+margin:0;
+padding:0;
+}
+
+#allclassnav  li{
+	
+}
+
+#allclassnav  li a{
+	display:block; 
+	border-left: 12px solid #CC0000;
+}
+a:link,a:visited
+{
+display:block;
+font-weight:bold;
+background-color:white;
+width:100%;
+height:relative;
+text-align:center;
+padding:10px;
+text-decoration:none;
+text-transform:uppercase;
+}
+a:hover,a:active
+{
+background-color:#CC0000;
+}
